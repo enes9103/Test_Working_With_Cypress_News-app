@@ -28,9 +28,9 @@ npm install veya yarn install
   const url =
   "https://newsapi.org/v2/everything?" +
   "q=Apple&" +
-  "from=2022-04-18&" +
+  "from=2022-05-08&" +
   "sortBy=popularity&" +
-  "apiKey=d00d9a4dc6a7453bb673086906f424c2";
+  "apiKey=AIzaSyAVeF43Ukz2QFCMYgdw3htRuFriqlDQRoA";
 
 
 ## `Kullanilacak Araclar`
