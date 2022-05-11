@@ -1,5 +1,4 @@
 # Cypress ile Basic Test Çalışması
-# https://react-with-redux-cypress-news-app.netlify.app/
 
 ## `Kurulum`
 
