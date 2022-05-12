@@ -13,7 +13,6 @@ import { login, loginWithGoogle } from "../utils/firebaseUtil";
 import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 
-
 const Login = () => {
   const navigate = useNavigate();
   const { currentUser } = useSelector(state => state.auth)
