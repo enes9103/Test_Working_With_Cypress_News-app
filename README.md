@@ -5,7 +5,6 @@
 ```
 npm install veya yarn install
 ```
-
 ## `Kullanilan Kutuphaneler`
 
 - `redux` :
@@ -31,7 +30,6 @@ npm install veya yarn install
   "from=2022-05-08&" +
   "sortBy=popularity&" +
   "apiKey=AIzaSyAVeF43Ukz2QFCMYgdw3htRuFriqlDQRoA";
-
 
 ## `Kullanilacak Araclar`
 
