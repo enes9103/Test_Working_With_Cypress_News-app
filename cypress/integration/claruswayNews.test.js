@@ -36,9 +36,8 @@ describe('Header test', () => {
       cy.contains("Register").click().wait(2000)
       cy.url().should('include', 'http://localhost:3000/register')
       cy.contains("Register").click().wait(2000)
-
-
   })  
+  
   it('register with email', () =>{
           var chars = 'abcdefghijklmnopqrstuvwxyz1234567890';
           var string = '';
