@@ -83,7 +83,6 @@ const Register = () => {
                 fullWidth
               />
             </Grid>
-
             <Grid item xs={12}>
               <Button
                 variant="contained"
